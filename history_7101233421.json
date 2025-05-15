@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Привіт!"
+  },
+  {
+    "role": "user",
+    "content": "Відповідай українською: Привіт"
+  },
+  {
+    "role": "assistant",
+    "content": "Привіт!"
+  },
+  {
+    "role": "user",
+    "content": "Відповідай українською: Привіт"
+  },
+  {
+    "role": "assistant",
+    "content": "Привіт!"
+  },
+  {
+    "role": "user",
+    "content": "Відповідай українською: Привіт"
+  },
+  {
+    "role": "assistant",
+    "content": "Як справи?"
+  }
+]
